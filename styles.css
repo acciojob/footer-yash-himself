@@ -24,6 +24,9 @@ footer{
 .box{
 	margin:20px;
 }
+.media-icons{
+	display:flex;
+}
 a{
 	color:white;
 }
