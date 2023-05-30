@@ -1,1 +1,29 @@
 /* your code here */
+*{
+	list-style:none;
+	text-decoration:none;
+	padding:0;
+	margin:0;
+}
+h3{
+	text-align:center;
+}
+footer{
+	background-color:gray;
+	padding:10px;
+}
+.content{
+		display:flex;
+	justify-content:space-around;
+	
+}
+.link-boxes{
+	display:flex;
+	justify-content:space-between;
+}
+.box{
+	margin:20px;
+}
+a{
+	color:white;
+}
